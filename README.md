@@ -16,7 +16,7 @@ I build AI tools that solve **real problems**, not just demo apps.
 
 ## 📫 Connect with Me
 - [Twitter/X](https://twitter.com/not_a_genius__)
-- [LinkedIn](https://linkedin.com/in/akash-kumar5)
+- [LinkedIn](https://linkedin.com/in/-akash-kumar)
 
 ---
 

@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hey, I’m Akash 👋
+I build AI tools that solve **real problems**, not just demo apps.
 
-<!--
-**akash-kumar5/akash-kumar5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 What I’m Building
+- **Lexx** — Legal drafting AI that turns boring notices into fire content.
+- **Dazai** — A market strategy AI that thinks like a retail trader.
+- **Zenin** — Personal finance tracker that doesn't miss even a toffee expense.
 
-Here are some ideas to get you started:
+## 🧰 Tech Stack
+`Python` | `FastAPI` | `Next.js` | `React` | `Machine Learning` | `RAG Pipelines` | `AWS` | `Bash`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📢 Currently Working On
+- Building **Lexx MVP** — bringing AI into legal drafting workflows.
+- Experimenting with **RAG for legal research automation**.
+- Designing **real-time market regime classifiers** with Dazai.
+
+## 📫 Connect with Me
+- [Twitter/X](https://twitter.com/not_a_genius__)
+- [LinkedIn](https://linkedin.com/in/akash-kumar5)
+
+---
+
+**LegalTech rebel. FinTech hacker. Always shipping.**
+
+*“Build savage, ship bold.”*

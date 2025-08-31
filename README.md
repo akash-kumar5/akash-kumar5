@@ -1,6 +1,6 @@
 # Hey, I’m Akash 👋
 I build AI tools that solve **real problems**, not just demo apps.
-![](https://komarev.com/ghpvc/?username=akash-kumar5)
+
 
 ## 🚀 What I’m Building
 - **Lexx** — Legal drafting AI that turns boring notices into fire content.

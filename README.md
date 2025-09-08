@@ -1,5 +1,5 @@
 # Hey, I’m Akash 👋
-I build AI tools that solve **real problems**, not just demo apps.
+I build more side projects than side dishes i eat in a week.
 
 
 ## 🚀 What I’m Building
@@ -13,7 +13,7 @@ I build AI tools that solve **real problems**, not just demo apps.
 ## 📢 Currently Working On
 - Building **Lexx MVP** — bringing AI into legal drafting workflows.
 - Experimenting with **RAG for legal research automation**.
-- Designing **real-time market regime classifiers** with Dazai.
+- Designing **real-time market regime classifiers** .
 
 ## 📫 Connect with Me
 - [Twitter/X](https://twitter.com/not_a_genius__)
@@ -21,6 +21,4 @@ I build AI tools that solve **real problems**, not just demo apps.
 
 ---
 
-**LegalTech rebel. FinTech hacker. Always shipping.**
-
-*“Build savage, ship bold.”*
+** Always shipping.**

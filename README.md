@@ -28,7 +28,7 @@ Currently deep into **legal AI** and **market intelligence**, building products 
 
 ---
 
-## 🔭 Currently Focused On
+## 🔭 What I'm Building Right Now
 
 - Building the **Lexx MVP** — integrating AI into real-world legal drafting workflows.  
 - Designing a **real-time Market Regime Classifier** — blending technical indicators with ML to read market structure.  
@@ -57,7 +57,7 @@ Currently deep into **legal AI** and **market intelligence**, building products 
 If you’re building in **AI, trading, or automation** — or just exploring ambitious ideas — let’s connect:  
 
 - [Twitter/X](https://x.com/not_a_genius__)  
-- [LinkedIn](#)  
+- [LinkedIn](https://www.linkedin.com/in/-akash-kumar/)  
 - [Portfolio](https://portfolio-site-git-main-akash-kumar5s-projects.vercel.app/)
 
 > “Talk is cheap. Show me the code.” — Linus Torvalds  

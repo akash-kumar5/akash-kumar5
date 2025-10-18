@@ -39,7 +39,7 @@ Currently deep into **legal AI** and **market intelligence**, building products 
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akash-kumar5&show_icons=true&theme=tokyonight)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=akash-kumar5&theme=tokyonight)  
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akash-kumar5&layout=compact&theme=tokyonight)
 
 ---

@@ -56,7 +56,7 @@ Currently deep into **legal AI** and **market intelligence**, building products 
 
 If you’re building in **AI, trading, or automation** — or just exploring ambitious ideas — let’s connect:  
 
-- [Twitter/X](https://x.com/not_a_genius__)  
+- [Twitter/X](https://x.com/akash_tsuki)  
 - [LinkedIn](https://www.linkedin.com/in/-akash-kumar/)  
 - [Portfolio](https://portfolio-site-git-main-akash-kumar5s-projects.vercel.app/)
 

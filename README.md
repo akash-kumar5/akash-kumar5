@@ -1,18 +1,18 @@
 ![Banner](https://img.shields.io/badge/🚀_Builder_in_Public-Fintech_&_AI-blueviolet?style=for-the-badge&logo=github)
 
 # 👋 Hey, I’m Akash  
-I build more side projects than side dishes I eat in a week.  
-Currently deep into **legal AI** and **market intelligence**, building products that solve boring but high-impact problems.
+I build **AI tools**, **Automation systems**, and products that solve real workflow problems - especially where people still rely on manual chaos.
+
+Currently focused on AI systems, automation infrastructure, and product-driven experimentation.
 
 ---
 
 ## 🚀 What I’m Building
 
-- ⚖️ **[Lexx](#)** — AI for legal drafting that turns boring notices into sharp, context-aware documents.  
-- 📊 **[Market Regime Classifier](#)** — A real-time ML system that classifies market phases (trend, range, squeeze) and powers smarter trading logic.  
-
-*(The classifier is part of a larger idea: **Dazai**, an AI that learns to trade like a retail trader — from mistakes to decisions.)*
-
+*   🤖 **Opsora** - [https://opsora.in](https://opsora.in)My independent automation consultancy where I design lead systems, follow-ups, and workflow automations for businesses. Focused on removing manual chaos and building scalable pipelines.
+    
+*   ⚡ **Shelly** - Automated lead generation and outreach system
+    
 ---
 
 ## 🧰 Tech Stack
@@ -30,6 +30,7 @@ Currently deep into **legal AI** and **market intelligence**, building products 
 
 ## 🔭 What I'm Building Right Now
 
+- Shipping **Opsora** workflows and improving automation UX.
 - Building the **Lexx MVP** — integrating AI into real-world legal drafting workflows.  
 - Designing a **real-time Market Regime Classifier** — blending technical indicators with ML to read market structure.  
 - Experimenting with **retrieval-augmented generation** for domain-specific legal research.  
@@ -46,7 +47,7 @@ Currently deep into **legal AI** and **market intelligence**, building products 
 
 ## 🎯 What I’m Aiming For
 
-- Build **AI systems that reason**, retrieve, and automate legal workflows.  
+- Build **AI systems that reason**, retrieve, and automate manual workflows.  
 - Create **market intelligence tools** that bridge human psychology and machine precision.  
 - Explore how **rule-based logic + LLM reasoning** can power autonomous decision-making.
 
@@ -60,5 +61,5 @@ If you’re building in **AI, trading, or automation** — or just exploring amb
 - [LinkedIn](https://www.linkedin.com/in/-akash-kumar/)  
 - [Portfolio](https://portfolio-site-git-main-akash-kumar5s-projects.vercel.app/)
 
-> “Talk is cheap. Show me the code.” — Linus Torvalds  
-**Always shipping. Always learning.**
+> **“Talk is cheap. Show me the code.”** — Linus Torvalds  
+

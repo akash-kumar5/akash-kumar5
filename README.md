@@ -1,18 +1,52 @@
-![Banner](https://img.shields.io/badge/🚀_Builder_in_Public-Fintech_&_AI-blueviolet?style=for-the-badge&logo=github)
+<div align="center">
 
-# 👋 Hey, I’m Akash  
-I build **AI tools**, **Automation systems**, and products that solve real workflow problems - especially where people still rely on manual chaos.
+![Visitor Count](https://komarev.com/ghpvc/?username=akash-kumar5&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)
 
-Currently focused on AI systems, automation infrastructure, and product-driven experimentation.
+</div>
 
 ---
 
-## 🚀 What I’m Building
+# 👋 Hey, I'm Akash
 
-*   🤖 **Opsora** - [https://opsora.in](https://opsora.in)My independent automation consultancy where I design lead systems, follow-ups, and workflow automations for businesses. Focused on removing manual chaos and building scalable pipelines.
-    
-*   ⚡ **Shelly** - Automated lead generation and outreach system
-    
+**AI/ML Engineer · Automation Systems · Fintech**
+
+I build AI tools, automation pipelines, and intelligent systems that eliminate manual workflows — especially in domains where people still rely on spreadsheets and chaos.
+
+**Currently:** LLM Post-Training Intern @ Ethara AI &nbsp;·&nbsp; MCA graduating June 2026 &nbsp;·&nbsp; Open to ML engineering roles (remote/hybrid)
+
+---
+
+## 📈 Impact at a Glance
+
+| | |
+|---|---|
+| ⭐ **40+ GitHub stars** | CryptoMarket Regime Classifier |
+| 📦 **200+ downloads** | Hugging Face training dataset |
+| 📬 **100+ emails/day** | Shelly lead automation pipeline |
+| 🧠 **LLM Post-Training** | RLHF evaluation @ Ethara AI |
+
+---
+
+## 🔬 Featured Project
+
+### [CryptoMarket Regime Classifier](https://github.com/akash-kumar5/CryptoMarket_Regime_Classifier) — ⭐ 40+ stars
+
+End-to-end ML pipeline that classifies market regimes (Trend, Range, Squeeze, High Volatility) from multi-timeframe crypto data using HMMs and LSTMs.
+
+- Processed **2M+ market data points** · identified **6 distinct regimes**
+- 6-state HMM trained on **315K BTC observations** · deployed via Streamlit
+- Dataset published on [Hugging Face](https://huggingface.co/) with **200+ downloads**
+- Modular design for integration into strategy, position sizing, and risk management
+
+---
+
+## 🚀 What I'm Building
+
+- 🤖 **[Opsora](https://opsora.in)** — independent automation consultancy; designing lead systems, follow-ups, and scalable workflow pipelines for businesses
+- ⚡ **Shelly** — end-to-end lead generation engine: Google Maps scraping → email discovery → bulk outreach (100+ targeted emails/day, 90% less manual work)
+- ⚖️ **Lexx** — citation-grounded legal AI for Indian law, built with Next.js + FastAPI + RAG
+- 📊 **Dazai** — market-regime-aware research system with backtesting and risk-aware experimentation
+
 ---
 
 ## 🧰 Tech Stack
@@ -28,38 +62,35 @@ Currently focused on AI systems, automation infrastructure, and product-driven e
 
 ---
 
-## 🔭 What I'm Building Right Now
-
-- Shipping **Opsora** workflows and improving automation UX.
-- Building the **Lexx MVP** — integrating AI into real-world legal drafting workflows.  
-- Designing a **real-time Market Regime Classifier** — blending technical indicators with ML to read market structure.  
-- Experimenting with **retrieval-augmented generation** for domain-specific legal research.  
-
----
-
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akash-kumar5&show_icons=true&theme=tokyonight)  
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akash-kumar5&layout=compact&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=akash-kumar5&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
----
+[![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akash-kumar5&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)](https://github.com/akash-kumar5)
 
-## 🎯 What I’m Aiming For
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akash-kumar5&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/akash-kumar5)
 
-- Build **AI systems that reason**, retrieve, and automate manual workflows.  
-- Create **market intelligence tools** that bridge human psychology and machine precision.  
-- Explore how **rule-based logic + LLM reasoning** can power autonomous decision-making.
+</div>
 
 ---
 
-## 🤝 Let’s Build Together
+## 🎯 What I'm Aiming For
 
-If you’re building in **AI, trading, or automation** — or just exploring ambitious ideas — let’s connect:  
+- Build AI systems that **reason, retrieve, and automate** manual workflows end-to-end
+- Create market intelligence tools that bridge **human psychology and machine precision**
+- Explore how **rule-based logic + LLM reasoning** can power autonomous decision-making
 
-- [Twitter/X](https://x.com/akash_tsuki)  
-- [LinkedIn](https://www.linkedin.com/in/-akash-kumar/)  
-- [Portfolio](https://portfolio-site-git-main-akash-kumar5s-projects.vercel.app/)
+---
 
-> **“Talk is cheap. Show me the code.”** — Linus Torvalds  
+## 🤝 Let's Build Together
 
+If you're building in AI, trading, or automation — or just exploring ambitious ideas — let's connect:
+
+[![Twitter/X](https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/akash_tsuki)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-akash-kumar/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-site-git-main-akash-kumar5s-projects.vercel.app/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@akashdevbuilds)
+
+> **"Talk is cheap. Show me the code."** — Linus Torvalds

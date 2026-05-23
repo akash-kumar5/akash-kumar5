@@ -68,9 +68,9 @@ End-to-end ML pipeline that classifies market regimes (Trend, Range, Squeeze, Hi
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=akash-kumar5&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-[![Akash's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=akash-kumar5&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+![Akash's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=akash-kumar5&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akash-kumar5&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/akash-kumar5)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akash-kumar5&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 

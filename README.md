@@ -22,7 +22,7 @@ Focused on LLM applications, RAG pipelines, automation infrastructure, and intel
 | | |
 |---|---|
 | ⭐ **40+ GitHub stars** | CryptoMarket Regime Classifier |
-| 📦 **200+ downloads** | Hugging Face training dataset |
+| 📦 **250+ downloads** | Hugging Face training dataset |
 | 📬 **100+ emails/day** | Shelly lead automation pipeline |
 | 🧠 **LLM Post-Training** | RLHF evaluation @ Ethara AI |
 
@@ -50,7 +50,7 @@ End-to-end ML pipeline that classifies market regimes (Trend, Range, Squeeze, Hi
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -71,13 +71,12 @@ End-to-end ML pipeline that classifies market regimes (Trend, Range, Squeeze, Hi
 
 ![Akash's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=akash-kumar5&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
 
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=akash-kumar5&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-## 🎯 What I'm Aiming For
+##  What I'm Aiming For
 
 - Build AI systems that **reason, retrieve, and automate** manual workflows end-to-end
 - Create market intelligence tools that bridge **human psychology and machine precision**
@@ -87,7 +86,7 @@ End-to-end ML pipeline that classifies market regimes (Trend, Range, Squeeze, Hi
 
 ## 🤝 Let's Build Together
 
-If you're building in AI, trading, or automation — or just exploring ambitious ideas — let's connect:
+If you're building in AI, trading, or automation or just exploring ambitious ideas - let's connect:
 
 [![Twitter/X](https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/akash_tsuki)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-akash-kumar/)

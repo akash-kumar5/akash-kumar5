@@ -10,7 +10,8 @@
 
 **AI/ML Engineer · Automation Systems · Fintech**
 
-I build AI tools, automation pipelines, and intelligent systems that eliminate manual workflows — especially in domains where people still rely on spreadsheets and chaos.
+Building AI systems that automate workflows, reason over domain knowledge, and process real-time data.
+Focused on LLM applications, RAG pipelines, automation infrastructure, and intelligent decision systems using FastAPI, Next.js, and modern AI tooling.
 
 **Currently:** LLM Post-Training Intern @ Ethara AI &nbsp;·&nbsp; MCA graduating June 2026 &nbsp;·&nbsp; Open to ML engineering roles (remote/hybrid)
 

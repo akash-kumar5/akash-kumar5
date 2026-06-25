@@ -12,8 +12,8 @@
 
 Building AI systems that automate workflows, reason over domain knowledge, and process real-time data.
 Focused on LLM applications, RAG pipelines, automation infrastructure, and intelligent decision systems using FastAPI, Next.js, and modern AI tooling.
-
-**Currently:** LLM Post-Training Intern @ Ethara AI &nbsp;·&nbsp; MCA graduating June 2026 &nbsp;·&nbsp; Open to ML engineering roles (remote/hybrid)
+**Completed:** LLM Post-Training Intern @ Ethara AI
+**Currently:** MCA graduating June 2026 &nbsp;·&nbsp; Open to ML engineering roles (remote/hybrid)
 
 ---
 
@@ -22,7 +22,7 @@ Focused on LLM applications, RAG pipelines, automation infrastructure, and intel
 | | |
 |---|---|
 | ⭐ **40+ GitHub stars** | CryptoMarket Regime Classifier |
-| 📦 **250+ downloads** | Hugging Face training dataset |
+| 📦 **350+ downloads** | Hugging Face training dataset |
 | 📬 **100+ emails/day** | Shelly lead automation pipeline |
 | 🧠 **LLM Post-Training** | RLHF evaluation @ Ethara AI |
 
@@ -30,7 +30,7 @@ Focused on LLM applications, RAG pipelines, automation infrastructure, and intel
 
 ## 🔬 Featured Project
 
-### [CryptoMarket Regime Classifier](https://github.com/akash-kumar5/CryptoMarket_Regime_Classifier) — ⭐ 40+ stars
+### [CryptoMarket Regime Classifier](https://github.com/akash-kumar5/CryptoMarket_Regime_Classifier) — ⭐ 44+ stars
 
 End-to-end ML pipeline that classifies market regimes (Trend, Range, Squeeze, High Volatility) from multi-timeframe crypto data using HMMs and LSTMs.
 

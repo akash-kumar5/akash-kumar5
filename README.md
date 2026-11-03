@@ -21,7 +21,7 @@ Focused on LLM applications, RAG pipelines, automation infrastructure, and intel
 
 | | |
 |---|---|
-| ⭐ **40+ GitHub stars** | CryptoMarket Regime Classifier |
+| ⭐ **100+ GitHub stars** | CryptoMarket Regime Classifier |
 | 📦 **350+ downloads** | Hugging Face training dataset |
 | 📬 **100+ emails/day** | Shelly lead automation pipeline |
 | 🧠 **LLM Post-Training** | RLHF evaluation @ Ethara AI |
@@ -30,7 +30,7 @@ Focused on LLM applications, RAG pipelines, automation infrastructure, and intel
 
 ## 🔬 Featured Project
 
-### [CryptoMarket Regime Classifier](https://github.com/akash-kumar5/CryptoMarket_Regime_Classifier) — ⭐ 44+ stars
+### [CryptoMarket Regime Classifier](https://github.com/akash-kumar5/CryptoMarket_Regime_Classifier) — ⭐ 50+ stars
 
 End-to-end ML pipeline that classifies market regimes (Trend, Range, Squeeze, High Volatility) from multi-timeframe crypto data using HMMs and LSTMs.
 
